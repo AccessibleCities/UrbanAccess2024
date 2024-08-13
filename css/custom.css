@@ -122,6 +122,10 @@ a:link{
   color:#0d6efd;
 }
 
+.white-link {
+  color: white !important;;
+}
+
 #topic-areas ol{
   margin-top: 30px;
 }
