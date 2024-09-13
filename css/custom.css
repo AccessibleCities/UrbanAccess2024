@@ -134,3 +134,15 @@ a:link{
   margin-bottom: 10px;
   margin-right: 70px;
 }
+
+/* News box at top of page */
+
+#news-box{
+  border-width:3px; 
+  border-style:solid; 
+  border-color: var(--bs-primary);
+  padding: 1em; margin:0px; 
+  margin-bottom: 20px; 
+  border-radius: 8px;
+  background-color:rgb(254, 254, 233, 0.4);
+}
