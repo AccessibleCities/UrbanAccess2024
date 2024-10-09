@@ -146,3 +146,12 @@ a:link{
   border-radius: 8px;
   background-color:rgb(254, 254, 233, 0.4);
 }
+
+/* Paper titles */
+.underline-on-hover {
+  text-decoration: none;
+}
+
+.underline-on-hover:hover {
+  text-decoration: underline;
+}
